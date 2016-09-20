@@ -1,11 +1,11 @@
 ==========================================
- LDGH Project
+ #LDGH Project
 =========================================
 
  (/u0254) Copyleft 2015, by LDGH and Contributors.
 
 ----------------------------------------
-<b>Native Genetic Diversity Project</b>
+<b>Natives Genetic Diversity Project</b>
 ----------------------------------------
  GNU GPL 2015, by LDGH and Contributors.
 
@@ -19,51 +19,78 @@
 <b> Databases: </b>
 
 1) (<b>OPA-N</b>)	OPA - LDGH Natives (HGDP, OPA-Natives, SNP500Cancer-excluded)
+
 2) (<b>OPA-Li</b>)	OPA Innate Immunity, OPA Non-Hodgkin Linfoma, Li et al
+
 3) (<b>MaxPops</b>)	HGDP, HAPMAP, Natives25M
+
 4) (<b>MaxSNPs</b>)	1000Genomes, Natives25M
+
 5) (<b>HAP25N</b>)	HAPMAP, Natives25M
+
 6) (<b>NAT2</b>) Native dataset 2 (to be defined)
 
 <b> Populations: </b>
 
 1) OPA-Natives (Cayapa, San Martin, Quechua, Matsiguenga)
+
 2) Natives25M (Quechua, Aymara, Ashaninka, Shimaa)	/home/ldgh_projects/2.5_natives/data/Inputs_analysis/Peruvians/Shimaa_Ashanincas_Peruvians_comuns.ped
+
 3) SNP500Cancer (CEU, Pacific Rim, Hispanic, Afro-american)
+
 4) OPA Innate Immunity/Non-Hodgkin Linfoma (HGDP-CEPH)
+
 5) HAPMAP
+
 6) HGDP
+
 7) 1000Genomes (1kG) /home/epigen/equipes/ancestralidade/dados/public_databases/1000Genomes_files/Omni2.5M-5M_1000genomes_vcf_ped/1000Genomes_snpscomuns_com_EPIGEN_25M/1000Genomes_banco_completo_snpscomuns_25.ped
-8) Native dataset (Quechua, Aymara, Ashaninka, Shimaa, Chopcas, Matzes, Moche, Nahua, Qeros, Uros)
+
+8) Native dataset INS (Quechua, Aymara, Ashaninka, Shimaa, Chopcas, Matzes, Moche, Nahua, Qeros, Uros)
 	
 <b> Databases Statiscs </b>
 
 <i>Sample Size</i>
 
-1) OPA-N -1021
-2) OPA-Li	- 966
-3) MaxPops - 1095
-4) MaxSNPs - 1222
-5) HAP25N - 1053
-6) NAT2 - 
+1) <b>OPA-N</b> - 1021
+
+2) <b>OPA-Li</b> - 966
+
+3) <b>MaxPops</b> - 1095
+
+4) <b>MaxSNPs</b> - 1222
+
+5) <b>HAP25N</b> - 1053
+
+6) <b>NAT2</b> - 1683
  	
 <i>Number of loci</i>
 
-1) OPA-N - 1247
-2) OPA-Li	- 647151
-3) MaxPops - 358389
-4) MaxSNPs - 2000155
-5) HAP25N - 966000
-6) NAT2 - 
+1) <b>OPA-N</b> - 1247
+
+2) <b>OPA-Li</b> - 647151
+
+3) <b>MaxPops</b> - 358389
+
+4) <b>MaxSNPs</b> - 2000155
+
+5) <b>HAP25N</b> - 966000
+
+6) <b>NAT2</b> - 1921864
  	
 <b> Database files <\b>
 
-1) OPA-N - /home/ldgh_projects/genes_natives/data/HGDP_LDGH_EX_NAT_***.sdat.gz 
-2) OPA-Li	- /home/ldgh_projects/genes_natives/data/HGDP_IINHL600K_XYMfreeEX_NAT_***.sdat.gz
-3) MaxPops - /home/ldgh_projects/genes_natives/data/EPIGEN_25M5M_Max_pops_HAPMAP_HGDP_NAT_QT_fita_names_NAT_***_comuns.sdat.gz
-4) MaxSNPs - /home/ldgh_projects/genes_natives/data/EPIGEN_25M5M_1000G_Nativos_snpscomuns_fita_names_NAT_***.sdat.gz
-5) HAP25N - /home/ldgh_projects/genes_natives/data/EPIGEN_25M5M_Max_snps2_HAPMAP_NAT_QT_fita_names_NAT_***_comuns.sdat.gz
-6) NAT2 - /scratch/capeverd/gbss2/temp/Natives/Dataset_Nativos_max_SNP_ALL.phase3_shapeit2_v5a.20130502_qc
+1) <b>OPA-N</b> - /home/ldgh_projects/genes_natives/data/HGDP_LDGH_EX_NAT_***.sdat.gz 
+
+2) <b>OPA-Li</b> - /home/ldgh_projects/genes_natives/data/HGDP_IINHL600K_XYMfreeEX_NAT_***.sdat.gz
+
+3) <b>MaxPops</b> - /home/ldgh_projects/genes_natives/data/EPIGEN_25M5M_Max_pops_HAPMAP_HGDP_NAT_QT_fita_names_NAT_***_comuns.sdat.gz
+
+4) <b>MaxSNPs</b> - /home/ldgh_projects/genes_natives/data/EPIGEN_25M5M_1000G_Nativos_snpscomuns_fita_names_NAT_***.sdat.gz
+
+5) <b>HAP25N</b> - /home/ldgh_projects/genes_natives/data/EPIGEN_25M5M_Max_snps2_HAPMAP_NAT_QT_fita_names_NAT_***_comuns.sdat.gz
+
+6) <b>NAT2</b> - /scratch/capeverd/gbss2/temp/Natives/Dataset_Nativos_max_SNP_ALL.phase3_shapeit2_v5a.20130502_qc
  	(*** -> EAS, EUR, WAFR)
  	
 <b> Results folder </b>
