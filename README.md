@@ -1,5 +1,5 @@
 ==========================================
- #LDGH Project
+ <b>LDGH Project</b>
 =========================================
 
  (/u0254) Copyleft 2015, by LDGH and Contributors.
@@ -28,7 +28,7 @@
 
 5) (<b>HAP25N</b>)	HAPMAP, Natives25M
 
-6) (<b>NAT2</b>) Native dataset 2 (to be defined)
+6) (<b>NAT2</b>)	INS Native dataset (to be defined)
 
 <b> Populations: </b>
 
@@ -78,7 +78,7 @@
 
 6) <b>NAT2</b> - 1921864
  	
-<b> Database files <\b>
+<b> Database files </b>
 
 1) <b>OPA-N</b> - /home/ldgh_projects/genes_natives/data/HGDP_LDGH_EX_NAT_***.sdat.gz 
 
@@ -96,6 +96,8 @@
 <b> Results folder </b>
 
 /home/ldgh_projects/genes_natives/results/
+
+
 
 <b>Analysis Pipeline</b>
 
